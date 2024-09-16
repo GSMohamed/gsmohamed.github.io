@@ -1,0 +1,23 @@
+/* styles for nav links */
+nav a {
+    color: #333;
+    transition: color 0.3s ease;
+  }
+  
+  nav a:hover {
+    color: #666;
+  }
+  
+  /* styles for images */
+  img {
+    transition: transform 0.3s ease;
+  }
+  
+  img:hover {
+    transform: scale(1.1);
+  }
+  
+  /* styles for contact form */
+  #contact-form {
+    display: none;
+  }
